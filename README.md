@@ -5,7 +5,7 @@
 |Exams     |no       |           |
 |Notes     |yes      |2020       |
 |References|no       |           |
-|Slides    |no       |           |
+|Slides    |yes      |2020       |
 
 ## Notes
 
