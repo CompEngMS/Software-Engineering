@@ -2,9 +2,9 @@
 
 |          |Available|Last update|
 |----------|:-------:|:---------:|
-|Exams     |no       |           |
+|Exams     |yes      |2020       |
 |Notes     |yes      |2020       |
-|References|no       |           |
+|References|yes      |           |
 |Slides    |yes      |2020       |
 
 ## Notes
@@ -17,5 +17,8 @@
 |Nicola  |2020       |PDF      |n/a|
 
 
-## Labs 
-Labs from Software Engineering course Spring 2019: [Github repo](https://github.com/nicoDs96/SE-LABs)
+## Labs
+
+Look at these GitHub repos:
+* [Spring 2020](https://github.com/lrusso96/Software-Engineering)
+* [Spring 2019](https://github.com/nicoDs96/SE-LABs)
