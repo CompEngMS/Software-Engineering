@@ -18,4 +18,4 @@
 
 
 ## Labs 
-[Github repo](https://github.com/nicoDs96/SE-LABs)
+Labs from Software Engineering course Spring 2019: [Github repo](https://github.com/nicoDs96/SE-LABs)
