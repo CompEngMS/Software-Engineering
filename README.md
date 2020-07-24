@@ -17,8 +17,10 @@
 |Nicola  |2020       |PDF      |n/a|
 
 
-## Labs
+## Labs and exams
 
 Look at these GitHub repos:
-* [Spring 2020](https://github.com/lrusso96/Software-Engineering)
-* [Spring 2019](https://github.com/nicoDs96/SE-LABs)
+* [Spring 2020 - Luigi](https://github.com/lrusso96/Software-Engineering)
+* [Spring 2019 - Nico](https://github.com/nicoDs96/SE-LABs)
+* [Spring 2019 - Alessandro](https://github.com/aserpi/msecs-1-se)
+* [Spring 2019 - Federica](https://github.com/FedericaSole/RestfulConDB)
