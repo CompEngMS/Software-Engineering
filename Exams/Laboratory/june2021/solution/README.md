@@ -1,0 +1,3 @@
+- DB Contains the database with the gRPC server
+- Soap service contains the soap server
+- Client contains the client interface that is connected to the DB via gRPC and to the SOAP server.

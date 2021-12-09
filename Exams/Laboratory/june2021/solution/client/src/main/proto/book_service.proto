@@ -1,0 +1,39 @@
+syntax = "proto3";
+option java_multiple_files = true;
+
+option java_package = "common.gRPCService";
+
+message MyServiceRequest {
+}
+
+message Response {
+    int32 bookId = 1;
+    string book_title = 2;
+    int32 year = 3;
+    int32 author_id = 4;
+}
+
+message Author {
+    int32 authorId = 1;
+    int32 yearOfBirth = 2;
+    string name = 3;
+}
+
+message MyServiceResponse {
+    repeated Response books = 1;
+}
+
+message BookInfoRequest{
+    int32 bookId = 1;
+}
+
+message BookInfoResponse {
+    Response bookInfo = 1;
+    Author authorInfo = 2;
+    bool hasResponse = 3;
+}
+
+service BookService {
+    rpc getAllBooks(MyServiceRequest) returns (MyServiceResponse);
+    rpc getBookInfo(BookInfoRequest) returns (BookInfoResponse);
+}
