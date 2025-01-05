@@ -1,0 +1,13 @@
+Today's exam 12-9-2022
+Q1- What is SOAP Web services and the related technologies explain them. (20 Min)
+
+Q2- What is Agile vs Standard Software development methods.
+Discuss what is Scrum and all the related Elements of Scrum. (20 Min)
+
+Q3- Function Points and COCOMO ,COCOMOII. (20 Min)
+
+Q4- Scenario of Renting Car application (enjoy) (60 Min)
+* Discuss about the main elements and present the User Story.
+*Make an architecture diagram with all the possible elements
+*Make Sprint for the 6 months duration.
+
